@@ -3,7 +3,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 // Portions Copyright (c) 2018 The Monero developers
 // Portions Copyright (c) 2018 The TurtleCoin Developers
-
+#include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include "crypto/oaes_lib.h"
